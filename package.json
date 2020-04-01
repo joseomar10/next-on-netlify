@@ -1,6 +1,6 @@
 {
   "name": "next-on-netlify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wrapper for hosting NextJS applications with Server-Side Rendering on Netlify",
   "bin": "./next-on-netlify.js",
   "keywords": [
@@ -24,7 +24,7 @@
   "devDependencies": {},
   "dependencies": {
     "fs-extra": "^8.1.0",
-    "next-aws-lambda": "^2.3.4",
+    "next-aws-lambda": "^2.3.8",
     "path-to-regexp": "^3.2.0"
   }
 }
